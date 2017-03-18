@@ -2,6 +2,7 @@
   "name": "quiz",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://huonghk.github.io/quiz",
   "devDependencies": {
     "react-scripts": "0.6.1"
   },
