@@ -1,0 +1,11 @@
+.answers {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+}
+.answers__item {
+  margin-top: 12px;
+}
+.answers__item:first-child {
+  margin-top: 0px;
+}

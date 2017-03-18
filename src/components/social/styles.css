@@ -1,0 +1,17 @@
+.social {
+  display: flex;
+}
+.social__item {
+  flex: 1 1 0px;
+  padding: 12px;
+}
+.social__header {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+}
+.social__body {
+  font-size: 12px;
+  margin-top: 12px;
+}

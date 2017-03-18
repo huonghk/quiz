@@ -1,0 +1,12 @@
+.social-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+.social-row__label {
+  color: #646464;
+}
+.social-row__value {
+  color: #383838;
+  font-weight: 600;
+}

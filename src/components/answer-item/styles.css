@@ -1,0 +1,22 @@
+.answer-item {
+  font-size: 16px;
+  line-height: 2;
+  color: #646464;
+  padding: 6px 12px;
+  background: white;
+  box-shadow: 0px 3px 0px #bbbbbb;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 3px;
+}
+
+.answer-item:hover {
+  background: #f0deb4;
+  box-shadow: #d5c295 0px 3px 0px;
+}
+
+.answer-item--clicked {
+  color: white;
+  background: #1fbba6;
+  box-shadow: #1fbba6 0px 3px 0px;
+}
